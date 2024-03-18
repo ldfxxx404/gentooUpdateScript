@@ -1,0 +1,3 @@
+/home/lxmxr/OtherProjects/cmake-build-debug/CMakeFiles/OtherProjects.dir
+/home/lxmxr/OtherProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lxmxr/OtherProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
