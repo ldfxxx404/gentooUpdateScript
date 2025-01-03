@@ -1,3 +1,3 @@
 # gentooUpdateScript
 
-My simple script for update Gentoo
+My simple CLI app for update Gentoo
